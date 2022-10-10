@@ -184,7 +184,7 @@ img {
 
 .home__container {
   padding-top: 8rem;
-  height: 100vh;
+  height: 100%;
   display: grid;
   row-gap: 1rem;
 }
